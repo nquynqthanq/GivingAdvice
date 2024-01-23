@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+Simple Advice Generator
+Welcome to the Simple Advice Generator, where wisdom is just a click away. Our straightforward platform is designed to provide you with quick and uplifting advice whenever you need it. No login or registration required – just click the "Give Me Advice" button, and let the guidance flow.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+How It Works
+Click "Give Me Advice":
 
-## Available Scripts
+Simply click the "Give Me Advice" button to receive a piece of advice instantly.
+Randomized Wisdom:
 
-In the project directory, you can run:
+Our system generates random pieces of advice from a pool of uplifting and motivational messages.
+No Strings Attached:
 
-### `npm start`
+Enjoy the simplicity of getting advice without any sign-up process. We believe in making wisdom accessible to everyone, hassle-free.
+Why Choose Simple Advice Generator?
+Instant Inspiration:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Get a quick dose of inspiration whenever you need it.
+No Frills, No Fuss:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+No accounts, no forms – just straightforward advice.
+Positive Vibes Only:
 
-### `npm test`
+Our advice is curated to uplift and motivate.
+Spread the Positivity
+Share the advice with friends and family.
+Connect with us on social media to spread the positivity:
+Facebook: https://www.facebook.com/Qthaq2004/
+Instagram: https://www.instagram.com/qthag_/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you have any questions, feedback, or suggestions, feel free to reach out to me at [22521337@gm.uit.edu.vn].
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Embrace the simplicity of wisdom with the Simple Advice Generator. Click the button, receive advice, and carry on with a positive mindset!
